@@ -1,0 +1,172 @@
+{
+  "identifier" : "6A024BAC",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "E94ECAB7",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.actuajeriko.eypopct.49.99",
+      "referenceName" : "com.actuajeriko.eypopct.49.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "ADD7095C",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.actuajeriko.eypopct.19.99",
+      "referenceName" : "com.actuajeriko.eypopct.19.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "27D095EF",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.actuajeriko.eypopct.9.99",
+      "referenceName" : "com.actuajeriko.eypopct.9.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "69.99",
+      "familyShareable" : false,
+      "internalID" : "464B6406",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.actuajeriko.eypopct.69.99",
+      "referenceName" : "com.actuajeriko.eypopct.69.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "156.99",
+      "familyShareable" : false,
+      "internalID" : "6863DCC2",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.actuajeriko.eypopct.156.99",
+      "referenceName" : "com.actuajeriko.eypopct.156.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "82.99",
+      "familyShareable" : false,
+      "internalID" : "6A2042AF",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.actuajeriko.eypopct.82.99",
+      "referenceName" : "com.actuajeriko.eypopct.82.99",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "59",
+      "familyShareable" : false,
+      "internalID" : "AD7F8DEB",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.actuajeriko.eypopct.59",
+      "referenceName" : "com.actuajeriko.eypopct.59",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

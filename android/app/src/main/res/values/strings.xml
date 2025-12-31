@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eypop</string>
+
+    <string name="facebook_app_id">335047778559512</string>
+    <string name="fb_login_protocol_scheme">fb335047778559512</string>
+    <string name="facebook_client_token">edf72d5b27f04d93d1d3ae7c485269d7</string>
+
+
+</resources>

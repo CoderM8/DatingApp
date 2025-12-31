@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "985679342823",
+    "project_id": "eypop-c3e1d",
+    "storage_bucket": "eypop-c3e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985679342823:android:1c71d08f9e7a7ca1c1c642",
+        "android_client_info": {
+          "package_name": "com.actuajeriko.eypop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985679342823-1moanrktragq82jboc21t22l5vtbhcp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "1177b0fb38b862a764ee5ff8d43863cc718502db"
+          }
+        },
+        {
+          "client_id": "985679342823-72krcqllh615vj8d09ncb92bq1ikf63a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "945aa87a57db6828fa29754f52d6e006d405ae5b"
+          }
+        },
+        {
+          "client_id": "985679342823-88i93gui9otmptism6gaeejeq6trqeu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "8d2e7b2246aa245a68e8cbd5d988ade22e98ef05"
+          }
+        },
+        {
+          "client_id": "985679342823-8bcr28h1d9e4kag1ubb5eu5l63k699tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "b27ad9661861146ac11a0b2154bc8f31df37f666"
+          }
+        },
+        {
+          "client_id": "985679342823-d0sd3s26jvseqdi2k4d9vcrq1tcf35pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "695e329273cd4d3857afd4064427844b43c3f180"
+          }
+        },
+        {
+          "client_id": "985679342823-e6q095l8mklk2d3lt6hhthbgdkqddduk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "34f08d33a2a53479888b47eb20ac5a244cb3b8e9"
+          }
+        },
+        {
+          "client_id": "985679342823-i4g4c3479qqh3hhmgsfitgu19udp6o4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "73de186ba2133acb48d2dbe3d64d6ed28e8090cd"
+          }
+        },
+        {
+          "client_id": "985679342823-ic8knht2jrt8ejn1basm92t75njsct33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "a9a5731ffa17da37dcd3173f2377cd2d9867b3fa"
+          }
+        },
+        {
+          "client_id": "985679342823-j5dpk6ab7qdj2mtsmapodvqa712c83oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "e825f40dc28ac83f54dc19bfbfc7d6dcb6bca935"
+          }
+        },
+        {
+          "client_id": "985679342823-jk6eog9gs1acd6b273httrf71icfvhki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "aefac7b52614c574b351bdc9333415272c4e2d88"
+          }
+        },
+        {
+          "client_id": "985679342823-neevssde335lbj19kma3qo83a62u8404.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "b9d556f93a71f28313eb55af1f64d6cfa1e3209a"
+          }
+        },
+        {
+          "client_id": "985679342823-u0hc2caled7sg1kd6dr8vrr5jmt27f8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.actuajeriko.eypop",
+            "certificate_hash": "c5b253e50f61f2aa26331cc24c832e5751efa6c0"
+          }
+        },
+        {
+          "client_id": "985679342823-iuu8eo0fr7mbtbs71bl6gscmiivnj2ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCavZ73K47pQbLLY9DrQsbuQHixEsL76oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985679342823-iuu8eo0fr7mbtbs71bl6gscmiivnj2ql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985679342823-8h1s8cg2ockm58dvtaq61roh34emuf8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.actuajeriko.eypop",
+                "app_store_id": "1628570550"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

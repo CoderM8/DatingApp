@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <g id="Group_6360" data-name="Group 6360" transform="translate(-83.941 -713)">
+    <g id="Group_6359" data-name="Group 6359">
+      <g id="Group_6358" data-name="Group 6358">
+        <circle id="Ellipse_601" data-name="Ellipse 601" cx="36" cy="36" r="36" transform="translate(83.941 713)" fill="#1dcdc7"/>
+      </g>
+    </g>
+    <path id="video-camera" d="M24.191,4a5.121,5.121,0,0,1,5.121,5.121v17.07a5.121,5.121,0,0,1-5.121,5.121H7.121A5.121,5.121,0,0,1,2,26.191V9.121A5.121,5.121,0,0,1,7.121,4ZM40.4,4.607a1.708,1.708,0,0,1,2.53,1.188l.025.293.01,23.135A1.708,1.708,0,0,1,40.68,30.83l-.267-.124-7.686-4.392V9Z" transform="translate(97.458 731.344)" fill="#fff"/>
+  </g>
+</svg>

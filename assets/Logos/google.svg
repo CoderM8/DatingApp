@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="63" viewBox="0 0 63 63">
+  <g id="Group_6296" data-name="Group 6296" transform="translate(-320 -614)">
+    <g id="Ellipse_627" data-name="Ellipse 627" transform="translate(320 614)" fill="#fff" stroke="#fbbc04" stroke-width="1">
+      <circle cx="31.5" cy="31.5" r="31.5" stroke="none"/>
+      <circle cx="31.5" cy="31.5" r="31" fill="none"/>
+    </g>
+    <g id="gmail" transform="translate(313.999 599.662)">
+      <path id="Path_6192" data-name="Path 6192" d="M19.723,74.191h6.562V58.282L16.9,51.3V71.406A2.809,2.809,0,0,0,19.723,74.191Z" transform="translate(0 -12.922)" fill="#4285f4"/>
+      <path id="Path_6193" data-name="Path 6193" d="M100.3,74.191h6.562a2.817,2.817,0,0,0,2.823-2.823V51.3l-9.347,7.02V74.191Z" transform="translate(-51.582 -12.922)" fill="#34a853"/>
+      <path id="Path_6194" data-name="Path 6194" d="M100.3,33.252v12.17l9.347-7.02V34.664a4.212,4.212,0,0,0-6.753-3.357Z" transform="translate(-51.582 -0.024)" fill="#fbbc04"/>
+      <path id="Path_6195" data-name="Path 6195" d="M41.4,49.932V37.8l11.216,8.431L63.833,37.8V49.97L52.655,58.363Z" transform="translate(-15.153 -4.572)" fill="#ea4335" fill-rule="evenodd"/>
+      <path id="Path_6196" data-name="Path 6196" d="M16.9,34.6V38.34l9.347,7.02V33.228l-2.632-1.984A4.21,4.21,0,0,0,16.9,34.6Z" fill="#c5221f"/>
+    </g>
+  </g>
+</svg>

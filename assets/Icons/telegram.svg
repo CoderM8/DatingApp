@@ -1,0 +1,10 @@
+<svg id="telegram_1_" data-name="telegram (1)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.667" y1="0.167" x2="0.417" y2="0.75" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aee2"/>
+      <stop offset="1" stop-color="#1e96c8"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellipse_616" data-name="Ellipse 616" cx="20" cy="20" r="20" fill="url(#linear-gradient)"/>
+  <path id="Path_6167" data-name="Path 6167" d="M42.967,81.9c2.352-1.3,4.978-2.377,7.431-3.464,4.221-1.78,8.458-3.53,12.738-5.158.833-.277,2.329-.549,2.476.685-.08,1.747-.411,3.483-.637,5.22C64.4,83,63.734,86.811,63.085,90.617a1.8,1.8,0,0,1-2.828,1.113c-2.442-1.65-4.9-3.283-7.315-4.972-.79-.8-.057-1.955.648-2.528,2.012-1.982,4.145-3.667,6.051-5.752.514-1.242-1.005-.2-1.506.126-2.754,1.9-5.44,3.911-8.344,5.579-1.483.816-3.212.119-4.694-.337-1.329-.55-3.277-1.1-2.131-1.944Z" transform="translate(-35.474 -60.798)" fill="#fff"/>
+</svg>

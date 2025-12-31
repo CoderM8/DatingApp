@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.296" height="21.222" viewBox="0 0 28.296 21.222">
+  <g id="Group_6573" data-name="Group 6573" transform="translate(-355.853 -196.389)">
+    <path id="video_5_" data-name="video (5)" d="M7.819,4.5h8.194a5.531,5.531,0,0,1,5.819,5.744v9.734c0,2.233-3.007,5.122-3.007,5.122a10.066,10.066,0,0,1-2.812.622H7.819A5.531,5.531,0,0,1,2,19.978V10.244A5.532,5.532,0,0,1,7.819,4.5ZM27.407,7.866a1.957,1.957,0,0,1,1.943.091A2.024,2.024,0,0,1,30.3,9.682V20.541a2.024,2.024,0,0,1-.946,1.726,1.959,1.959,0,0,1-1.944.089L25.31,21.3a2.3,2.3,0,0,1-1.256-2.061V10.984a2.29,2.29,0,0,1,1.256-2.06l2.1-1.058Z" transform="translate(353.853 191.889)" fill="#fff" fill-rule="evenodd"/>
+    <path id="arrow-down" d="M15,1,8,8,1,1" transform="translate(357.5 203.5)" fill="none" stroke="#00a531" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

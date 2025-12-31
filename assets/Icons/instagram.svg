@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.036" y1="0.897" x2="1.456" y2="-0.318" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcee21"/>
+      <stop offset="0.25" stop-color="red"/>
+      <stop offset="0.5" stop-color="#f0f"/>
+      <stop offset="0.79" stop-color="blue"/>
+      <stop offset="1" stop-color="#662d91"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-1.092" y1="2.398" x2="1.971" y2="-1.254" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="-3.686" y1="5.491" x2="4.369" y2="-4.113" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="-0.249" y1="1.394" x2="1.191" y2="-0.325" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="instagram_4_" data-name="instagram (4)" transform="translate(-15 -14.954)">
+    <circle id="Ellipse_617" data-name="Ellipse 617" cx="20" cy="20" r="20" transform="translate(15 14.954)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_618" data-name="Ellipse 618" cx="15.388" cy="15.388" r="15.388" transform="translate(19.763 19.753)" fill="#fff"/>
+    <circle id="Ellipse_619" data-name="Ellipse 619" cx="13.599" cy="13.599" r="13.599" transform="translate(21.551 21.541)" fill="#fff"/>
+    <path id="Path_6170" data-name="Path 6170" d="M117.628,107.29h-8.095a2.345,2.345,0,0,0-2.343,2.343v8.093a2.346,2.346,0,0,0,2.343,2.345h8.095a2.348,2.348,0,0,0,2.343-2.345v-8.092a2.346,2.346,0,0,0-2.343-2.343Zm-4.048,10.6a4.208,4.208,0,1,1,4.208-4.208,4.208,4.208,0,0,1-4.208,4.208Zm4.344-7.545a1,1,0,1,1,1-1A1,1,0,0,1,117.924,110.342Zm0,0" transform="translate(-78.429 -78.525)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_6171" data-name="Path 6171" d="M136.15,133.83a2.43,2.43,0,1,0,2.43,2.429A2.43,2.43,0,0,0,136.15,133.83Zm0,0" transform="translate(-101 -101.103)" fill="url(#linear-gradient-3)"/>
+    <path id="Path_6172" data-name="Path 6172" d="M72.583,58.89A13.583,13.583,0,1,0,86.166,72.473,13.583,13.583,0,0,0,72.583,58.89Zm8.168,17.661a4.124,4.124,0,0,1-4.12,4.121H68.536a4.126,4.126,0,0,1-4.121-4.121V68.459a4.127,4.127,0,0,1,4.121-4.121h8.095a4.126,4.126,0,0,1,4.12,4.121Zm0,0" transform="translate(-37.432 -37.349)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>
