@@ -1,13 +1,3 @@
-# Eypop
-
-ANDROID 14 SUPPORTED ✅
-
-#### PACKAGE NAME
-- "com.actuajeriko.eypop"
-
-#### FLUTTER RELEASE SDK
-- SDK 3.22.3
-
 #### PERMISSIONS
 - Camera
 - Microphone
@@ -15,12 +5,7 @@ ANDROID 14 SUPPORTED ✅
 - Notification
 - Location
 - AppTracking **IOS**
-
-#### FIREBASE DASHBOARD
-- GMail: vocsydeveloper@gmail.com
-- Project-id: "eypop-c3e1d"
-- Project-name: "EYPOP"
-
+- 
 #### NOTIFICATION
 - Firebase Messaging [FCM]
 - Local Notification
@@ -29,11 +14,6 @@ ANDROID 14 SUPPORTED ✅
 #### SYSTEM
 - IN APP PURCHASES [COINS]
 - AUDIO-VIDEO CALLS
-
-#### GITHUB
-- **BRANCH**: DEV_3.3.7
-- Last Production: PROD_3.3.6
-- https://github.com/vocsyinfotech/client-AJ-Eypop.git
 
 #### DATABASE
 - Back4App
